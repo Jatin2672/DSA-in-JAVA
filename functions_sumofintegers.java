@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class functions_sumofintegers {
     public static int digitsum(int number){
