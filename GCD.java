@@ -16,3 +16,5 @@ public class GCD {
         System.out.println(gcd(a, b));
     }
 }
+
+// NAIVE METHOD !!!!!!
